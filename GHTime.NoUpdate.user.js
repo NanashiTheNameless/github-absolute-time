@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Github: always show absolute times
-// @version 1.2
+// @version 1.2.1
 // @namespace namelessnanashi.dev
 // @supportURL https://github.com/NanashiTheNameless/github-absolute-time/issues
 // @copyright https://github.com/NanashiTheNameless/github-absolute-time/license.md
