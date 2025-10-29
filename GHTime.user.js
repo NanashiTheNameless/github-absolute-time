@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Github: always show absolute times
-// @version 1.2
+// @version 1.2.1
 // @namespace namelessnanashi.dev
 // @updateURL https://github.com/NanashiTheNameless/github-absolute-time/raw/main/GHTime.user.js
 // @downloadURL https://github.com/NanashiTheNameless/github-absolute-time/raw/main/GHTime.user.js
